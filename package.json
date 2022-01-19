@@ -1,8 +1,9 @@
 {
   "name": "@priya_dev/celcius-to-fahrenheit",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Converts Celcius to Fahrenheit",
   "main": "index.js",
+  "readme": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
