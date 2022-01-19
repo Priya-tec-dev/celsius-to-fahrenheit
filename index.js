@@ -6,8 +6,5 @@ module.exports = function (string) {
       celsius += 32;
       var obs = (celsius).toFixed(1)
       return obs;
-<<<<<<< HEAD
   };
-=======
-  };
->>>>>>> 0b64966062a197c6a3196a3b8aca442554eeb80b
+
