@@ -1,0 +1,23 @@
+{
+  "name": "@priya_dev/celcius-to-fahrenheit",
+  "version": "1.0.1",
+  "description": "Converts Celcius to Fahrenheit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priya-tec-dev/celsius-to-fahrenheit.git"
+  },
+  "keywords": [
+    "npm",
+    "celcius-to-fahrenheit"
+  ],
+  "author": "Priya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priya-tec-dev/celsius-to-fahrenheit/issues"
+  },
+  "homepage": "https://github.com/Priya-tec-dev/celsius-to-fahrenheit#readme"
+}
